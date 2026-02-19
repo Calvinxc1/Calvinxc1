@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Jason 👋
 
-<!--
-**Calvinxc1/Calvinxc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an ML engineer and data scientist focused on building end-to-end analytics
+and forecasting systems, from data ingestion and modeling to deployment and
+production operations.
 
-Here are some ideas to get you started:
+My work emphasizes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Custom time-series and demand modeling
+- Production ML systems
+- Data pipelines and platform engineering
+- Kubernetes-based deployment
+- Reproducible infrastructure (NixOS)
+
+---
+
+## Featured Project
+
+### 📊 New Eden Analytics
+End-to-end market analytics and forecasting platform built on custom models and
+a multi-database architecture.
+
+- Live API ingestion
+- Custom exponential smoothing & activity modeling
+- Kubernetes (k3s) on NixOS
+- React-based UI
+
+👉 See: https://github.com/New-Eden-Analytics/Overview
+
+---
+
+## Open Source & Technical Work
+
+- 📈 **PertDist** — PERT distribution utilities (PyPI)
+- 📐 **mv-laplace** — Multivariate Laplace sampling tools
+- 🔧 **StateSmoother** — Time-series forecasting engine
+
+---
+
+## Community
+
+- 🎤 Speaker at PyData Denver (2017, 2018)
+- Led workshops and technical talks on ML and optimization
+
+---
+
+## Interests
+
+- Applied forecasting
+- ML infrastructure
+- MLOps and platform design
+- Statistical modeling
+- Systems engineering
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/jasonmcherry/
+- Email: jcherry@gmail.com
