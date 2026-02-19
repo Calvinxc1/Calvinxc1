@@ -31,15 +31,15 @@ a multi-database architecture.
 
 ## Open Source & Technical Work
 
-- 📈 **PertDist** — PERT distribution utilities (PyPI)
-- 📐 **mv-laplace** — Multivariate Laplace sampling tools
-- 🔧 **StateSmoother** — Time-series forecasting engine
+- 📈 [**PertDist**](https://github.com/Calvinxc1/PertDist) — PERT distribution utilities (PyPI)
+- 📐 [**mv-laplace**](https://github.com/Calvinxc1/mv-laplace) — Multivariate Laplace sampling tools
+- 🔧 [**StateSmoother**](https://github.com/Calvinxc1/StateSmoother) — Time-series forecasting engine
 
 ---
 
 ## Community
 
-- 🎤 Speaker at PyData Denver (2017, 2018)
+- 🎤 Speaker at PyData Denver ([2017](https://github.com/Calvinxc1/AutoReg_Presentation), [2018](https://github.com/Calvinxc1/TensorFlow_Presentation))
 - Led workshops and technical talks on ML and optimization
 
 ---
