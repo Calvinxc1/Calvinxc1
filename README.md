@@ -1,56 +1,69 @@
-# Hi, I'm Jason 👋
+# Hi, I'm Jason Cherry
 
-I'm an ML engineer and data scientist focused on building end-to-end analytics
-and forecasting systems, from data ingestion and modeling to deployment and
-production operations.
+I'm an ML engineer and data scientist working across applied forecasting,
+scientific modeling, and systems for durable machine intelligence. My work
+spans end-to-end analytics platforms, custom time-series methods,
+spatiotemporal research workflows, and infrastructure for long-running AI
+agents.
 
-My work emphasizes:
+Current areas of focus:
 
-- Custom time-series and demand modeling
-- Production ML systems
-- Data pipelines and platform engineering
-- Kubernetes-based deployment
-- Reproducible infrastructure (NixOS)
+- Spatiotemporal interpolation and scientific ML
+- Forecasting and probabilistic modeling
+- Data and ML platform engineering
+- AI agent tooling and persistent memory systems
+- Reproducible infrastructure and deployment
 
 ---
 
-## Featured Project
+## Featured Work
 
-### 📊 New Eden Analytics
-End-to-end market analytics and forecasting platform built on custom models and
-a multi-database architecture.
+### Argo Data Interpolation
+Research code for interpolation and representation of Argo float CTD data across
+vertical profiles and broader spatiotemporal settings.
 
-- Live API ingestion
-- Custom exponential smoothing & activity modeling
-- Kubernetes (k3s) on NixOS
+- Cycle-level spline-based representations for Argo profiles
+- Research workflow for ocean reconstruction and climate analysis
+- Active direction toward multi-float spatiotemporal interpolation
+
+Repo: https://github.com/Calvinxc1/argo-data-interpolation
+
+### Vector Graph Memory
+Hybrid vector-graph memory backend for AI agents, combining semantic retrieval
+with graph traversal for long-term persistent memory.
+
+- Qdrant + JanusGraph architecture
+- OpenAI-compatible REST API
+- Designed for extended agent runs and knowledge persistence
+
+Repo: https://github.com/Calvinxc1/vector-graph-memory
+
+### New Eden Analytics
+End-to-end market analytics and forecasting platform built around custom models,
+live ingestion, and self-managed infrastructure.
+
+- Custom exponential smoothing and activity modeling
+- Multi-database architecture
+- Kubernetes on NixOS
 - React-based UI
 
-👉 See: https://github.com/New-Eden-Analytics/Overview
+Repo: https://github.com/New-Eden-Analytics/Overview
 
 ---
 
-## Open Source & Technical Work
+## Open Source
 
-- 📈 [**PertDist**](https://github.com/Calvinxc1/PertDist) — PERT distribution utilities (PyPI)
-- 📐 [**mv-laplace**](https://github.com/Calvinxc1/mv-laplace) — Multivariate Laplace sampling tools
-- 🔧 [**StateSmoother**](https://github.com/Calvinxc1/StateSmoother) — Time-series forecasting engine
-
----
-
-## Community
-
-- 🎤 Speaker at PyData Denver ([2017](https://github.com/Calvinxc1/AutoReg_Presentation), [2018](https://github.com/Calvinxc1/TensorFlow_Presentation))
-- Led workshops and technical talks on ML and optimization
+- [**PertDist**](https://github.com/Calvinxc1/PertDist) - PERT distribution utilities
+- [**mv-laplace**](https://github.com/Calvinxc1/mv-laplace) - multivariate Laplace sampling tools
+- [**StateSmoother**](https://github.com/Calvinxc1/StateSmoother) - time-series forecasting engine
 
 ---
 
-## Interests
+## Talks
 
-- Applied forecasting
-- ML infrastructure
-- MLOps and platform design
-- Statistical modeling
-- Systems engineering
+- PyData Denver speaker:
+  [2017](https://github.com/Calvinxc1/AutoReg_Presentation) and
+  [2018](https://github.com/Calvinxc1/TensorFlow_Presentation)
 
 ---
 
