@@ -6,6 +6,9 @@ spans end-to-end analytics platforms, custom time-series methods,
 spatiotemporal research workflows, and infrastructure for long-running AI
 agents.
 
+I tend to work at the boundary between modeling, data systems, APIs,
+infrastructure, and agent-oriented software.
+
 Current areas of focus:
 
 - Spatiotemporal interpolation and scientific ML
@@ -19,33 +22,38 @@ Current areas of focus:
 ## Featured Work
 
 ### Argo Data Interpolation
-Research code for interpolation and representation of Argo float CTD data across
-vertical profiles and broader spatiotemporal settings.
+Research code for Argo float CTD interpolation, currently centered on
+cycle-level vertical profile representation with broader spatiotemporal work in
+research mode.
 
-- Cycle-level spline-based representations for Argo profiles
-- Research workflow for ocean reconstruction and climate analysis
-- Active direction toward multi-float spatiotemporal interpolation
+- Prototype spline-based artifacts for individual Argo cycles
+- Research notes and diagnostics for broader ocean reconstruction work
+- Next direction: cross-float spatiotemporal interpolation and prediction
 
 Repo: https://github.com/Calvinxc1/argo-data-interpolation
 
 ### Vector Graph Memory
-Hybrid vector-graph memory backend for AI agents, combining semantic retrieval
-with graph traversal for long-term persistent memory.
+Hybrid vector-graph memory backend for AI agents, and an explicit experiment in
+how far a 100% AI-generated software workflow can be pushed. I chose an
+AI-memory system somewhat ironically as the test-bed, and I am using the repo
+to test the limits of AI-driven product development in practice, not as a
+default engineering model, but as a way to learn where these workflows are
+genuinely useful and where they break down.
 
-- Qdrant + JanusGraph architecture
-- OpenAI-compatible REST API
-- Designed for extended agent runs and knowledge persistence
+- Qdrant + JanusGraph with PydanticAI and FastAPI
+- OpenAI-compatible API plus bundled Open WebUI integration
+- Memory proposals, confirmations, and audit logging for long-running agents
+- Experimental workflow, not representative of my normal engineering process
 
 Repo: https://github.com/Calvinxc1/vector-graph-memory
 
 ### New Eden Analytics
-End-to-end market analytics and forecasting platform built around custom models,
-live ingestion, and self-managed infrastructure.
+End-to-end EVE Online industrial analytics platform, now in an active
+milestone-driven rebuild focused on a reliable profitability-ranking MVP.
 
-- Custom exponential smoothing and activity modeling
-- Multi-database architecture
-- Kubernetes on NixOS
-- React-based UI
+- Pull-based profitability analysis and ranked manufacturing candidates
+- Modular ingestion, schema, analysis, auth, and web app repos
+- Solo end-to-end ownership across data, infra, modeling, and frontend
 
 Repo: https://github.com/New-Eden-Analytics/Overview
 
@@ -64,6 +72,14 @@ Repo: https://github.com/New-Eden-Analytics/Overview
 - PyData Denver speaker:
   [2017](https://github.com/Calvinxc1/AutoReg_Presentation) and
   [2018](https://github.com/Calvinxc1/TensorFlow_Presentation)
+- School of AI Denver, February 5, 2019:
+  University of Colorado advancement analytics, including fundraising
+  propensity modeling, campaign forecasting, and donor-interest recommendation
+- CPRA Fall 2017 Conference, October 20, 2017:
+  University of Colorado endowment project
+- Apra Rocky Mountains 2018 Fall Conference:
+  unit-specific planned gift likelihood modeling for the University of
+  Colorado's four campuses (with Johnny Swinehart)
 
 ---
 
