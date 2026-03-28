@@ -16,6 +16,8 @@ impact rules.
 
 - Keep written release policy aligned with actual workflow automation and branch
   protections.
+- Keep release checks, publish steps, and recovery procedures aligned with the
+  documented branch and event model.
 - If release checks, publish steps, or recovery procedures differ by branch or
   event type, document that explicitly in the target repo's `AGENTS.md`.
 - If release safeguards are bypassed for a specific operation, record the

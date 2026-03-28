@@ -13,12 +13,15 @@ Use this module for repositories that follow GitFlow-style branch discipline.
 - Do not commit directly to `main` or `dev`.
 - Use pull requests for merges.
 - Keep branches and commits scoped to one logical purpose whenever practical.
+- If the repository uses conventional commits, keep commit types aligned with
+  that workflow.
 
 ## Workflow Alignment
 
-- Prefer CI on pull requests to protected branches rather than on every feature
-  branch push when that matches repo workflow.
-- Align written policy with actual workflow automation and branch protections.
+- Align written branch policy with actual branch protections, merge controls,
+  and CI trigger behavior.
+- If CI, release dry runs, publish steps, or recovery flows differ by branch or
+  event type, document that explicitly in the target repo's `AGENTS.md`.
 
 ## Enforcement And Overrides
 
